@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+center{
+    
+   margin-top: -8%;
+  
+   /* width: 100%;
+   height: 100%; */
+}
+body
+{
+    text-size-adjust: 3rem;
+    color: white;
+    font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    font-size: 2.5rem;
+    padding-left: 40%;
+    padding-top: 0%;
+   
+   
+}
